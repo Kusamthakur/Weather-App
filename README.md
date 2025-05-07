@@ -30,3 +30,4 @@ Responsive and visually appealing UI
 City-based weather forecast
 
 Current local time display
+
